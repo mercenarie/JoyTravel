@@ -122,3 +122,4 @@ var regAdd = /^(?=.*\d)[a-zA-Z\s\d\/]+$/;
     document.getElementById("statusAdd").innerHTML  = "<span class='valid'>Thanks, Address looks valid!</span>";  
     }
 }
+
